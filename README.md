@@ -117,3 +117,8 @@ HAVEGET-DynamicIsland/
 - 状态页 CPU 首次采样显示 `--`，约 2 秒后得到有效读数。
 
 版本：v1.2.6
+
+## 相关
+
+- [QingHuaBan 轻画板](https://github.com/Tendo-Iya/QingHuaBan) —— C++ Win32 + GDI+ 原生白板，同一作者
+- 作者主页：[Tendo-Iya](https://github.com/Tendo-Iya)
