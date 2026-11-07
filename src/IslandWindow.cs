@@ -2296,7 +2296,7 @@ namespace HavegetDynamicIsland
         private void TryUnlockDeveloper()
         {
             if (_devPasswordBox == null) return;
-            if (_devPasswordBox.Password == "HAVEGETTJZYY")
+            if (_devPasswordBox.Password == "HG-KYAMP4P9")
             {
                 _settings.DeveloperMode = true;
                 _settings.Save();
