@@ -61,7 +61,7 @@
 
 ## 使用
 
-1. 运行 `dist\HAVEGET-DynamicIsland-Setup.exe` 安装，或直接运行 `dist\HAVEGET DynamicIsland.exe` 便携试用。
+1. 从 [Releases](https://github.com/Tendo-Iya/HAVEGET-DynamicIsland/releases) 下载安装包安装，或下载便携版直接试用。自行构建的产物输出到 `dist\`，该目录不纳入版本控制。
 2. 点击屏幕顶部时间胶囊展开；在展开的岛内滚轮翻页，或点击左侧圆点。
 3. 点击面板外部、按 `Esc`，或右键点击展开面板收起。
 4. 进入「设置」页可以切换主题、开机自启动、显示秒数和 8 个栏目开关。

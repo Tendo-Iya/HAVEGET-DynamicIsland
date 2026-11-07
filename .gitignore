@@ -1,6 +1,7 @@
 # 构建中间产物
 bin/
 obj/
+dist/
 *.pdb
 *.cache
 
