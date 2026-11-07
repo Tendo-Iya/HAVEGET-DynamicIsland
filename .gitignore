@@ -1,0 +1,19 @@
+# 构建中间产物
+bin/
+obj/
+*.pdb
+*.cache
+
+# 编辑器 / IDE
+.vs/
+*.user
+*.suo
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 临时文件
+*.log
+*.tmp

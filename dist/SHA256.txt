@@ -1,0 +1,2 @@
+0684dc07e71e03ea998ace7bac5e3dd79e59839b6bb75ca9235169afad6c242d  HAVEGET-DynamicIsland-Setup.exe
+97f47ffd6116336b42027b0b227b4a070f112d291f5779ae5ecc8f1d1b1a3bad  HAVEGET DynamicIsland.exe
